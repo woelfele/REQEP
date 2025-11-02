@@ -6,3 +6,7 @@ Feature: An example
     Then the scenario passes
 
     Scenario: The next example
+      Given first number is 2
+      And second number is 4
+      When I add first and second number
+      Then the result is 6
