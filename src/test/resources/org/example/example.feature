@@ -10,3 +10,6 @@ Feature: An example
       And second number is 4
       When I add first and second number
       Then the result is 6
+
+      Scenario: noch eins
+
